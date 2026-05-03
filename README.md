@@ -1,5 +1,5 @@
 # aiassistant
-# Aira – AI Personal Assistant (Prototype)
+# Aira – AI Personal Assistant 
 
 Aira is a responsive, AI-inspired personal assistant web app that helps users manage daily routines, tasks, mood, and productivity. It adapts schedules based on wake-up time and energy levels, creating a more personalized planning experience.
 
@@ -46,6 +46,3 @@ Aira is a responsive, AI-inspired personal assistant web app that helps users ma
 * Data resets on page refresh
 * AI behavior is rule-based (mock logic)
 
-## Goal
-
-To demonstrate a clean, responsive, and adaptive AI assistant experience that feels intuitive, dynamic, and user-centered.
